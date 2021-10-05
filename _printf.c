@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include<stdio.h>
 /**
  * _printf - clone of the function printf in stdio.h
  * @format: the string to be printed along with format specifiers preceded by %
